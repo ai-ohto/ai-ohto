@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ai-ohto
+- 👋 Hi, I’m @ai-ohto voux pouvez m'appelez ylan
 - 👀 I’m interested in lern to program functions for discord severs
 - 🌱 I’m currently learning nothing for the moment
 - 💞️ I’m looking to collaborate on discord server project 
